@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Leader-Board-CodeChef/static/css/main.c4c15130.css",
+    "main.js": "/Leader-Board-CodeChef/static/js/main.c650f0c5.js",
+    "static/js/453.9fec01a1.chunk.js": "/Leader-Board-CodeChef/static/js/453.9fec01a1.chunk.js",
+    "index.html": "/Leader-Board-CodeChef/index.html",
+    "main.c4c15130.css.map": "/Leader-Board-CodeChef/static/css/main.c4c15130.css.map",
+    "main.c650f0c5.js.map": "/Leader-Board-CodeChef/static/js/main.c650f0c5.js.map",
+    "453.9fec01a1.chunk.js.map": "/Leader-Board-CodeChef/static/js/453.9fec01a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c15130.css",
+    "static/js/main.c650f0c5.js"
+  ]
+}
